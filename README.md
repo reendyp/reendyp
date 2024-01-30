@@ -1,12 +1,23 @@
 <!--### Hi there 👋
 🌱 I’m currently learning Python
 -->
-<h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
-<p align="left"> 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg " alt="vscode" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash- asli.svg " alt="bash" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original. svg " alt="php" lebar="45" tinggi="45"/> 
+<h1 align="center">Hi 👋, I'm Rendy</h1>
+<h3 align="center">Curious in Physics and IT!</h3>
+
+- 🌱 I’m currently learning **Python**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rendy putra pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rendy putra pratama" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reendyp&show_icons=true&locale=en&layout=compact" alt="reendyp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reendyp&" alt="reendyp" /></p>
+
 <!--
 **reendyp/reendyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
