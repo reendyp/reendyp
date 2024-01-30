@@ -1,7 +1,10 @@
 <!--### Hi there 👋
 🌱 I’m currently learning Python
 -->
-![Animasi ular]( https://github.com/reendyp/reendyp/blob/output/github-contribution-grid-snake.svg )
+<h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
+<p align="left"> 
+<img src=" [https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/ vscode-original.svg](https://en.m.wikipedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg) " alt="vscode" width="45" height="45"/> 
+</p>
 <!--
 **reendyp/reendyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
