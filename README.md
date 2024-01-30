@@ -1,12 +1,7 @@
 <!--### Hi there 👋
 🌱 I’m currently learning Python
 -->
-<h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
-<p align="left"> 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg " alt="vscode" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash- asli.svg " alt="bash" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original. svg " alt="php" lebar="45" tinggi="45"/> 
-</p>
+
 
 <!--
 **reendyp/reendyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
